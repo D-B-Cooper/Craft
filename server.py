@@ -13,7 +13,8 @@ import threading
 import time
 import traceback
 
-DEFAULT_TEST2 = 6969
+
+DEFAULT_TEST = 5000
 
 DEFAULT_HOST = '0.0.0.0'
 DEFAULT_PORT = 4080
